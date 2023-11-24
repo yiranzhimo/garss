@@ -33,7 +33,7 @@
 | PS001 | 南方周末 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/infzm.xml) |
 | PS001 | 端传媒 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theinitium_rss) |
 | PS001 | 经济学人 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/economist.xml) |
-| PS001 | 新闻联播文字版 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xinwenlianbo/index) |
+| PS001 | 新闻联播文字版 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/cctv_news_official) |
 | <h2 id="经济新闻">经济新闻</h2> |  | |  | |
 | ES001 | 雷锋网|  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/leiphone) |
 | ES001 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
