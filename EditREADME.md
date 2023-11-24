@@ -27,10 +27,10 @@
 
 | 编号 | 名称 | 描述 | RSS  |  最新内容 |
 | :-: | --- | --- | --- |  --- |
-| <h2 id="新闻">Telegram优质频道RSS订阅</h2> |  | |  | |
+| <h2 id="新闻">新闻</h2> |  | |  | |
 | NS001 | 雷锋网|  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/leiphone) |
 | NS002 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
-| <h2 id="论坛">Telegram优质频道RSS订阅</h2> |  | |  | |
+| <h2 id="论坛">论坛</h2> |  | |  | |
 | FM001 | V2EX |  暂无 | {{latest_content}}  |  [订阅地址](https://www.v2ex.com/index.xml) |
 
 
