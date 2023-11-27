@@ -134,6 +134,7 @@
 | SS001 | 精品MAC应用分享 |  暂无 | {{latest_content}}  |  [订阅地址](http://xclient.info/feed/) |
 | SS001 | Mobilism |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/mobilism/forums/android/apps) |
 | SS001 | 异星软件空间 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.yxssp.com/feed) |
+| SS001 | JIKE 社区 |  暂无 | {{latest_content}}  |  [订阅地址](https://jike.info/recent.rss?uid=27412&token=285b2919-5420-4c9a-8de7-9651b2f8bf1c) |
 
 
 ## 批量导入所有RSS订阅
