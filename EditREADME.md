@@ -29,30 +29,53 @@
 | :-: | --- | --- | --- |  --- |
 | <h2 id="政治新闻">政治新闻</h2> |  | |  | |
 | PS001 | 人民日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/jingjiribao.xml) |
-| PS001| 经济日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/people.xml) |
-| PS001 | 南方周末 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/infzm.xml) |
 | PS001 | 端传媒 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theinitium_rss) |
-| PS001 | 经济学人 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/economist.xml) |
-| PS001 | 新闻联播文字版 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xinwenlianbo/index) |
+| PS001 | 经济学人 |  暂无 | {{latest_content}}  |  [订阅地址](https://economist.buzzing.cc/feed.xml) |
+| PS001 | 中国话题 |  暂无 | {{latest_content}}  |  [订阅地址](https://china.buzzing.cc/feed.xml) |
+| PS001 | 财新网 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/caixin/latest) |
 | <h2 id="经济新闻">经济新闻</h2> |  | |  | |
-| ES001 | 雷锋网|  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/leiphone) |
 | ES001 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
 | ES001 | Investing |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/investing.xml) |
-| ES001 | 新浪财经 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/sina/finance/china) |
-| ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/bloomberg/bbiz) |
+| ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://bloombergnew.buzzing.cc/feed.xml) |
+| <h2 id="其他新闻">其他新闻</h2> |  | |  | |
+| OM001 | 睡前消息 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/shuiqianxiaoxi) |
+| OM001 | Aeon |  暂无 | {{latest_content}}  |  [订阅地址](https://aeon.co/feed.rss) |
+| OM001 | Big Think |  暂无 | {{latest_content}}  |  [订阅地址](https://bigthink.com/feed/all) |
+| OM001 | Collider |  暂无 | {{latest_content}}  |  [订阅地址](https://www.collider.space/rss) |
+| OM001 | 歪脑 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.wainao.me/rss.xml) |
+| OM001 | NOEMA |  暂无 | {{latest_content}}  |  [订阅地址](https://www.noemamag.com/feed/) |
 | <h2 id="论坛">论坛</h2> |  | |  | |
+| FM001 | Hacker News 热门|  暂无 | {{latest_content}}  |  [订阅地址](https://hn.buzzing.cc/feed.xml) |
 | FM001 | V2EX |  暂无 | {{latest_content}}  |  [订阅地址](https://www.v2ex.com/index.xml) |
+| FM001 | Reddit 热门 |  暂无 | {{latest_content}}  |  [订阅地址](https://reddit.buzzing.cc/feed.xml) |
+| FM001 | Quora 热门 |  暂无 | {{latest_content}}  |  [订阅地址](https://quora.buzzing.cc/feed.xml) |
 | FM001 | 雪球热帖 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xueqiu/hots) |
 | FM001 | 集思录 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/jisilu) |
 | FM001 | 一亩三分地 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/1point3acres/thread/new) |
-| FM001 | 虫部落 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/discuz/x/https://www.chongbuluo.com) |
 | FM001 | LessWrong |  暂无 | {{latest_content}}  |  [订阅地址](https://www.lesswrong.com/feed.xml) |
-| FM001 | 吾爱破解 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.52pojie.cn/forum.php?mod=rss) |
 | FM001 | 十年之约博客 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/foreverblog/feeds) |
+| FM001 | Xlog |  暂无 | {{latest_content}}  |  [订阅地址](https://xlog.app/feed/latest) |
+| FM001 | Bear Blog |  暂无 | {{latest_content}}  |  [订阅地址](https://bearblog.buzzing.cc/feed.xml) |
+| BS001 | 积薪 |  暂无 | {{latest_content}}  |  [订阅地址](https://firewood.news/rss.xml) |
+| FM001 | 知乎热榜 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhihu/hotlist) |
+| FM001 | Dochub |  暂无 | {{latest_content}}  |  [订阅地址](https://www.dochub.wiki/feed/) |
+| <h2 id="周报">周报</h2> |  | |  | |
+| NL001|Daily Productivity Sharing |  暂无 | {{latest_content}}  |  [订阅地址](https://letters.acacess.com/rss/) |
+| NL001| Interconnected |  暂无 | {{latest_content}}  |  [订阅地址](https://interconnected.blog/rss/) |
+| NL001| 事不过三 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhubai/via) |
+| NL001| 光明王 |  暂无 | {{latest_content}}  |  [订阅地址](https://lordoflight.substack.com/feed) |
+| BS001 | 湾区日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/wanqu/news) |
+| BS001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://hellogithub.com/rss) |
+| BS001 | 假设检验 |  暂无 | {{latest_content}}  |  [订阅地址](https://jiashejianyan.com/rss/) |
+| BS001 | AIGC Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://quail.ink/op7418/feed/atom) |
+| BS001 | ChinAI Newsletter |  暂无 | {{latest_content}}  |  [订阅地址](https://chinai.substack.com/feed) |
+| BS001 | 棱镜通讯 |  暂无 | {{latest_content}}  |  [订阅地址](https://wangyurui.com/feed.xml) |
+| BS001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
+| BS001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
 | <h2 id="博客">博客</h2> |  | |  | |
+| BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
 | BS001 | 有知有行 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youzhiyouxing/materials) |
 | BS001 | 东西智库 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.dx2025.com/feed) |
-| BS001 | 知乎热榜 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhihu/hotlist) |
 | BS001 | Money Orders |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/Harry_public) |
 | BS001 | Financial News And Report |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/financialnews666) |
 | BS001 | 你不知道的内幕消息 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/inside1024) |
@@ -65,16 +88,9 @@
 | BS001 | ALL About RSS |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/aboutrss) |
 | BS001 | 数学及其应用 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/mathematics_and_its_applications) |
 | BS001 | 书伴 |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.feedburner.com/bookfere) |
-| BS001 | Aeon |  暂无 | {{latest_content}}  |  [订阅地址](https://aeon.co/feed.rss) |
-| BS001 | 品葱精选 |  暂无 | {{latest_content}}  |  [订阅地址](https://project-gutenberg.github.io/Pincong/post/index.xml) |
-| BS001 | 湾区日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/wanqu/news) |
-| BS001 | 假设检验 |  暂无 | {{latest_content}}  |  [订阅地址](https://jiashejianyan.com/rss/) |
-| BS001 | AIGC Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://quail.ink/op7418/feed/atom) |
-| BS001 | ChinAI Newsletter |  暂无 | {{latest_content}}  |  [订阅地址](https://chinai.substack.com/feed) |
-| BS001 | Big Think |  暂无 | {{latest_content}}  |  [订阅地址](https://bigthink.com/feed/all) |
+| BS001 | PC精选 |  暂无 | {{latest_content}}  |  [订阅地址](https://project-gutenberg.github.io/Pincong/post/index.xml) |
 | BS001 | 见字如面 |  暂无 | {{latest_content}}  |  [订阅地址](https://hiwannz.com/feed) |
 | BS001 | 一方天地 |  暂无 | {{latest_content}}  |  [订阅地址](https://emmmme.com/feed.xml) |
-| BS001 | 光明王 |  暂无 | {{latest_content}}  |  [订阅地址](https://lordoflight.substack.com/feed) |
 | BS001 | 卢昌海的博客 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.changhai.org/feed.xml) |
 | BS001 | MaxOS |  暂无 | {{latest_content}}  |  [订阅地址](https://maxoxo.me/rss/) |
 | BS001 | 谢益辉 |  暂无 | {{latest_content}}  |  [订阅地址](https://yihui.org/index.xml) |
@@ -82,9 +98,13 @@
 | BS001 | 扯氮集 |  暂无 | {{latest_content}}  |  [订阅地址](http://weiwuhui.com/feed) |
 | BS001 | 数字游民部落 |  暂无 | {{latest_content}}  |  [订阅地址](https://jarodise.com/rss.xml) |
 | BS001 | 林海草原 |  暂无 | {{latest_content}}  |  [订阅地址](https://lhcy.org/feed) |
-| BS001 | 积薪 |  暂无 | {{latest_content}}  |  [订阅地址](https://firewood.news/rss.xml) |
 | BS001 | 王五四文集 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/blogs/wang54/2023) |
-| BS001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://hellogithub.com/rss) |
+| BS001 | Owen|  暂无 | {{latest_content}}  |  [订阅地址](https://www.owenyoung.com/atom.xml) |
+| BS001 | Pseudoyu|  暂无 | {{latest_content}}  |  [订阅地址](https://www.pseudoyu.com/zh/index.xml) |
+| BS001 |炜晨|  暂无 | {{latest_content}}  |  [订阅地址](https://weichen.blog/cn/blog/index.xml) |
+| BS001 | chinese future|  暂无 | {{latest_content}}  |  [订阅地址](https://www.chinese-future.org/home?format=rss) |
+| BS001 | 员外|  暂无 | {{latest_content}}  |  [订阅地址](https://www.luxiangdong.com/) |
+| BS001 | 虹线|  暂无 | {{latest_content}}  |  [订阅地址](https://1q43.blog/feed) |
 | <h2 id="播客">播客</h2> |  | |  | |
 | PD001 | 知行小酒馆 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/j8yp8gxkmgqr) |
 | PD001 |一席 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/jq7xytwpykrg) |
