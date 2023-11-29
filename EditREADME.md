@@ -34,6 +34,7 @@
 | PS001 | 中国话题 |  暂无 | {{latest_content}}  |  [订阅地址](https://china.buzzing.cc/feed.xml) |
 | PS001 | 财新网 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/caixin/latest) |
 | <h2 id="经济新闻">经济新闻</h2> |  | |  | |
+| ES001 | 汇率 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/boc/whpj) |
 | ES001 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
 | ES001 | Investing |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/investing.xml) |
 | ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://bloombergnew.buzzing.cc/feed.xml) |
@@ -72,6 +73,7 @@
 | BS001 | 棱镜通讯 |  暂无 | {{latest_content}}  |  [订阅地址](https://wangyurui.com/feed.xml) |
 | BS001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
 | BS001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
+| BS001 | 老胡的周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://weekly.howie6879.com/rss/rss.xml) |
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
 | BS001 | 有知有行 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youzhiyouxing/materials) |
