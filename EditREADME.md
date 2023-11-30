@@ -76,6 +76,7 @@
 | BS001 | 老胡的周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://weekly.howie6879.com/rss/rss.xml) |
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
+| BS001 | UNTAG |  暂无 | {{latest_content}}  |  [订阅地址](https://rss.utgd.net/feed) |
 | BS001 | 有知有行 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youzhiyouxing/materials) |
 | BS001 | 东西智库 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.dx2025.com/feed) |
 | BS001 | Money Orders |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/Harry_public) |
