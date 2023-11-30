@@ -110,7 +110,7 @@
 | <h2 id="播客">播客</h2> |  | |  | |
 | PD001 | 知行小酒馆 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/j8yp8gxkmgqr) |
 | PD001 |一席 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/jq7xytwpykrg) |
-| PD001 |声东击西 |  暂无 | {{latest_content}}  |  [订阅地址]("https://www.etw.fm/rss) |
+| PD001 |声东击西 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.etw.fm/rss) |
 | PD001 | 乱翻书 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/yxuruh3f9mc4) |
 | PD001 | 疯投圈 |  暂无 | {{latest_content}}  |  [订阅地址](https://crazy.capital/feed) |
 | PD001 | 迟早更新 |  暂无 | {{latest_content}}  |  [订阅地址](http://podcast.weareones.com/episodes/feed.xml) |
