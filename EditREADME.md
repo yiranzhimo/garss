@@ -72,6 +72,7 @@
 | BS001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
 | BS001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
 | BS001 | 老胡的周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://weekly.howie6879.com/rss/rss.xml) |
+| BS001 | 54321-Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/versun/54321-Weekly/releases.atom|
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
 | BS001 | UNTAG |  暂无 | {{latest_content}}  |  [订阅地址](https://rss.utgd.net/feed) |
