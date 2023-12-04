@@ -89,6 +89,7 @@
 | BS001 | chatGPT中文社区 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/LptTech) |
 | BS001 | ALL About RSS |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/aboutrss) |
 | BS001 | 数学及其应用 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/mathematics_and_its_applications) |
+| BS001 | Yu's life |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/pseudoyulife) |
 | BS001 | 书伴 |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.feedburner.com/bookfere) |
 | BS001 | PC精选 |  暂无 | {{latest_content}}  |  [订阅地址](https://project-gutenberg.github.io/Pincong/post/index.xml) |
 | BS001 | 见字如面 |  暂无 | {{latest_content}}  |  [订阅地址](https://hiwannz.com/feed) |
