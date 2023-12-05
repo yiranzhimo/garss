@@ -72,12 +72,16 @@
 | BS001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
 | BS001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
 | BS001 | 老胡的周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://weekly.howie6879.com/rss/rss.xml) |
-| BS001 | 54321-Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/versun/54321-Weekly/releases.atom|
+| BS001 | 龙爪槐守望者 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.ftium4.com/rss.xml) |
+| BS001 | 54321-Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/versun/54321-Weekly/releases.atom)|
+| BS001 | 1Link.Fun 科技周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://1link.fun/blog/index.xml)|
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
 | BS001 | UNTAG |  暂无 | {{latest_content}}  |  [订阅地址](https://rss.utgd.net/feed) |
 | BS001 | 有知有行 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youzhiyouxing/materials) |
 | BS001 | 东西智库 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.dx2025.com/feed) |
+| BS001 | TO-D 观察室 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/tod_magazine) |
+| BS001 | 老胡周刊资源分享频道 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel//howie_weekly) |
 | BS001 | Money Orders |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/Harry_public) |
 | BS001 | Financial News And Report |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/financialnews666) |
 | BS001 | 你不知道的内幕消息 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/inside1024) |
