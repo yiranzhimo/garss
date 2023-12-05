@@ -55,7 +55,7 @@
 | FM001 | 十年之约博客 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/foreverblog/feeds) |
 | FM001 | Xlog |  暂无 | {{latest_content}}  |  [订阅地址](https://xlog.app/feed/latest) |
 | FM001 | Bear Blog |  暂无 | {{latest_content}}  |  [订阅地址](https://bearblog.buzzing.cc/feed.xml) |
-| BS001 | 积薪 |  暂无 | {{latest_content}}  |  [订阅地址](https://firewood.news/rss.xml) |
+| FM001 | 积薪 |  暂无 | {{latest_content}}  |  [订阅地址](https://firewood.news/rss.xml) |
 | FM001 | 知乎热榜 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhihu/hotlist) |
 | FM001 | Dochub |  暂无 | {{latest_content}}  |  [订阅地址](https://www.dochub.wiki/feed/) |
 | <h2 id="周报">周报</h2> |  | |  | |
@@ -63,18 +63,19 @@
 | NL001| Interconnected |  暂无 | {{latest_content}}  |  [订阅地址](https://interconnected.blog/rss/) |
 | NL001| 事不过三 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhubai/via) |
 | NL001| 光明王 |  暂无 | {{latest_content}}  |  [订阅地址](https://lordoflight.substack.com/feed) |
-| BS001 | 湾区日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/wanqu/news) |
-| BS001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://hellogithub.com/rss) |
-| BS001 | 假设检验 |  暂无 | {{latest_content}}  |  [订阅地址](https://jiashejianyan.com/rss/) |
-| BS001 | AIGC Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://quail.ink/op7418/feed/atom) |
-| BS001 | ChinAI Newsletter |  暂无 | {{latest_content}}  |  [订阅地址](https://chinai.substack.com/feed) |
-| BS001 | 棱镜通讯 |  暂无 | {{latest_content}}  |  [订阅地址](https://wangyurui.com/feed.xml) |
-| BS001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
-| BS001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
-| BS001 | 老胡的周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://weekly.howie6879.com/rss/rss.xml) |
-| BS001 | 龙爪槐守望者 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.ftium4.com/rss.xml) |
-| BS001 | 54321-Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/versun/54321-Weekly/releases.atom)|
-| BS001 | 1Link.Fun 科技周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://1link.fun/blog/index.xml)|
+| NL001 | 湾区日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/wanqu/news) |
+| NL001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://hellogithub.com/rss) |
+| NL001 | 假设检验 |  暂无 | {{latest_content}}  |  [订阅地址](https://jiashejianyan.com/rss/) |
+| NL001 | AIGC Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://quail.ink/op7418/feed/atom) |
+| NL001 | ChinAI Newsletter |  暂无 | {{latest_content}}  |  [订阅地址](https://chinai.substack.com/feed) |
+| NL001 | 棱镜通讯 |  暂无 | {{latest_content}}  |  [订阅地址](https://wangyurui.com/feed.xml) |
+| NL001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
+| NL001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
+| NL001 | 老胡的周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://weekly.howie6879.com/rss/rss.xml) |
+| NL001 | 龙爪槐守望者 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.ftium4.com/rss.xml) |
+| NL001 | 54321-Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/versun/54321-Weekly/releases.atom)|
+| NL001 | 1Link.Fun 科技周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://1link.fun/blog/index.xml)|
+| NL001 | Dishing The Data |  暂无 | {{latest_content}}  |  [订阅地址](https://dishingthedata.substack.com/feed)|
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
 | BS001 | UNTAG |  暂无 | {{latest_content}}  |  [订阅地址](https://rss.utgd.net/feed) |
