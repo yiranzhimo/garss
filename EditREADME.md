@@ -36,6 +36,7 @@
 | ES001 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
 | ES001 | Investing |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/investing.xml) |
 | ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://bloombergnew.buzzing.cc/feed.xml) |
+| ES001 | 金十数据 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/jin10) |
 | <h2 id="其他新闻">其他新闻</h2> |  | |  | |
 | OM001 | 睡前消息 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/shuiqianxiaoxi) |
 | OM001 | Aeon |  暂无 | {{latest_content}}  |  [订阅地址](https://aeon.co/feed.rss) |
