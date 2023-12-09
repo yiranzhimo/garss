@@ -78,6 +78,7 @@
 | NL001 | 1Link.Fun 科技周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://1link.fun/blog/index.xml)|
 | NL001 | Dishing The Data |  暂无 | {{latest_content}}  |  [订阅地址](https://dishingthedata.substack.com/feed)|
 | <h2 id="博客">博客</h2> |  | |  | |
+| BS001 | 雪球专刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xueqiu/column/3746414875)|
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
 | BS001 | UNTAG |  暂无 | {{latest_content}}  |  [订阅地址](https://rss.utgd.net/feed) |
 | BS001 | 有知有行 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youzhiyouxing/materials) |
