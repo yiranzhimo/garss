@@ -28,15 +28,16 @@
 | <h2 id="政治新闻">政治新闻</h2> |  | |  | |
 | PS001 | 人民日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/jingjiribao.xml) |
 | PS001 | 端传媒 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theinitium_rss) |
-| PS001 | 经济学人 |  暂无 | {{latest_content}}  |  [订阅地址](https://economist.buzzing.cc/feed.xml) |
+| PS001 | 经济学人 |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/yiranzhimo/Rss-Translation/blob/main/rss/Economist.xml) |
 | PS001 | 中国话题 |  暂无 | {{latest_content}}  |  [订阅地址](https://china.buzzing.cc/feed.xml) |
 | PS001 | 财新网 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/caixin/latest) |
+| PS001 | 华尔街日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/yiranzhimo/Rss-Translation/blob/main/rss/The%20Wall%20Street%20Journal.xml) |
 | <h2 id="经济新闻">经济新闻</h2> |  | |  | |
 | ES001 | 汇率 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/boc/whpj) |
 | ES001 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
 | ES001 | Investing |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/investing.xml) |
 | ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://bloombergnew.buzzing.cc/feed.xml) |
-| ES001 | 金十数据 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/jin10) |
+| ES001 | 第一财经 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/yicai/latest) |
 | <h2 id="其他新闻">其他新闻</h2> |  | |  | |
 | OM001 | 睡前消息 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/shuiqianxiaoxi) |
 | OM001 | Aeon |  暂无 | {{latest_content}}  |  [订阅地址](https://aeon.co/feed.rss) |
@@ -48,7 +49,6 @@
 | FM001 | Hacker News 热门|  暂无 | {{latest_content}}  |  [订阅地址](https://hn.buzzing.cc/feed.xml) |
 | FM001 | V2EX |  暂无 | {{latest_content}}  |  [订阅地址](https://www.v2ex.com/index.xml) |
 | FM001 | Reddit 热门 |  暂无 | {{latest_content}}  |  [订阅地址](https://reddit.buzzing.cc/feed.xml) |
-| FM001 | Quora 热门 |  暂无 | {{latest_content}}  |  [订阅地址](https://quora.buzzing.cc/feed.xml) |
 | FM001 | 雪球热帖 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xueqiu/hots) |
 | FM001 | 集思录 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/jisilu) |
 | FM001 | 一亩三分地 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/1point3acres/thread/new) |
@@ -65,7 +65,7 @@
 | NL001| 事不过三 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhubai/via) |
 | NL001| 光明王 |  暂无 | {{latest_content}}  |  [订阅地址](https://lordoflight.substack.com/feed) |
 | NL001 | 湾区日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/wanqu/news) |
-| NL001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://hellogithub.com/rss) |
+| NL001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/hellogithub/volume) |
 | NL001 | 假设检验 |  暂无 | {{latest_content}}  |  [订阅地址](https://jiashejianyan.com/rss/) |
 | NL001 | AIGC Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://quail.ink/op7418/feed/atom) |
 | NL001 | ChinAI Newsletter |  暂无 | {{latest_content}}  |  [订阅地址](https://chinai.substack.com/feed) |
@@ -113,7 +113,7 @@
 | BS001 | Pseudoyu|  暂无 | {{latest_content}}  |  [订阅地址](https://www.pseudoyu.com/zh/index.xml) |
 | BS001 |炜晨|  暂无 | {{latest_content}}  |  [订阅地址](https://weichen.blog/cn/blog/index.xml) |
 | BS001 | chinese future|  暂无 | {{latest_content}}  |  [订阅地址](https://www.chinese-future.org/home?format=rss) |
-| BS001 | 员外|  暂无 | {{latest_content}}  |  [订阅地址](https://www.luxiangdong.com/) |
+| BS001 | 员外|  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/luxiangdong/archive) |
 | BS001 | 虹线|  暂无 | {{latest_content}}  |  [订阅地址](https://1q43.blog/feed) |
 | BS001 | neverland |  暂无 | {{latest_content}}  |  [订阅地址](https://type.cyhsu.xyz/feed.xml) |
 | BS001 | 夜法之书 |  暂无 | {{latest_content}}  |  [订阅地址](https://blog.17lai.site/atom.xml) |
