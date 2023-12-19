@@ -129,6 +129,7 @@
 | PD001 | 空无一物 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.ximalaya.com/album/40499917.xml) |
 | PD001 | 硅谷101 |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.fireside.fm/sv101/rss) |
 | PD001 | 翻转台电 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/36pjtvfwngyn) |
+| PD001 | Manifold  |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.transistor.fm/manifold-one) |
 | <h2 id="资源">资源</h2> |  | |  | |
 | SS001 |  阿里云盘盘 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/yunpanpan) |
 | SS001 | 夸克云盘 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/kuakeyun) |
@@ -147,6 +148,7 @@
 | SS001 | Mobilism |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/mobilism/forums/android/apps) |
 | SS001 | 异星软件空间 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.yxssp.com/feed) |
 | SS001 | JIKE 社区 |  暂无 | {{latest_content}}  |  [订阅地址](https://jike.info/recent.rss?uid=27412&token=285b2919-5420-4c9a-8de7-9651b2f8bf1c) |
+| SS001 | 冰器库 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/ifanbing) |
 
 
 ## 如何定制自己的私人简报?
