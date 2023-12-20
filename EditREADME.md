@@ -33,11 +33,12 @@
 | PS001 | 财新网 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/caixin/latest) |
 | PS001 | 华尔街日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/yiranzhimo/Rss-Translation/blob/main/rss/The%20Wall%20Street%20Journal.xml) |
 | <h2 id="经济新闻">经济新闻</h2> |  | |  | |
+| ES001 | 晚点 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/latepost) |
+| ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://bloombergnew.buzzing.cc/feed.xml) |
+| ES001 | 第一财经 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/yicai/latest) |
 | ES001 | 汇率 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/boc/whpj) |
 | ES001 | 律动 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/theblockbeats) |
 | ES001 | Investing |  暂无 | {{latest_content}}  |  [订阅地址](https://feedx.net/rss/investing.xml) |
-| ES001 | Bloomberg |  暂无 | {{latest_content}}  |  [订阅地址](https://bloombergnew.buzzing.cc/feed.xml) |
-| ES001 | 第一财经 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/yicai/latest) |
 | <h2 id="其他新闻">其他新闻</h2> |  | |  | |
 | OM001 | 睡前消息 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/shuiqianxiaoxi) |
 | OM001 | Aeon |  暂无 | {{latest_content}}  |  [订阅地址](https://aeon.co/feed.rss) |
@@ -77,6 +78,8 @@
 | NL001 | 54321-Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://github.com/versun/54321-Weekly/releases.atom)|
 | NL001 | 1Link.Fun 科技周刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://1link.fun/blog/index.xml)|
 | NL001 | Dishing The Data |  暂无 | {{latest_content}}  |  [订阅地址](https://dishingthedata.substack.com/feed)|
+| NL001 | 没有离开地球的原因 |  暂无 | {{latest_content}}  |  [订阅地址](https://redend110.substack.com/feed)|
+| NL001 | Unsupervised Learning |  暂无 | {{latest_content}}  |  [订阅地址](https://redend110.substack.com/feed)|
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 雪球专刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xueqiu/column/3746414875)|
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
@@ -130,6 +133,8 @@
 | PD001 | 硅谷101 |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.fireside.fm/sv101/rss) |
 | PD001 | 翻转台电 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/36pjtvfwngyn) |
 | PD001 | Manifold  |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.transistor.fm/manifold-one) |
+| <h2 id="视频">视频</h2> |  | |  | |
+| VS001 | 小Lin说 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youtube/user/@xiao_lin_shuo) |
 | <h2 id="资源">资源</h2> |  | |  | |
 | SS001 |  阿里云盘盘 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/yunpanpan) |
 | SS001 | 夸克云盘 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/kuakeyun) |
