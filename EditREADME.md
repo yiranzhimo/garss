@@ -120,6 +120,14 @@
 | BS001 | 虹线|  暂无 | {{latest_content}}  |  [订阅地址](https://1q43.blog/feed) |
 | BS001 | neverland |  暂无 | {{latest_content}}  |  [订阅地址](https://type.cyhsu.xyz/feed.xml) |
 | BS001 | 夜法之书 |  暂无 | {{latest_content}}  |  [订阅地址](https://blog.17lai.site/atom.xml) |
+| BS001 | ETF拯救世界的微博 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/5687069307) |
+| BS001 | 二级市场捡辣鸡冠军 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/7519797263) |
+| BS001 | tombkeeper |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1401527553) |
+| BS001 | VicodinXYZ |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1977585731) |
+| BS001 | 孟岩 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1651676492) |
+| BS001 | 月风_投资笔记 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1670659923) |
+| BS001 | Twitter @Naval |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/twitter/user/naval) |
+| BS001 | Interconnected |  暂无 | {{latest_content}}  |  [订阅地址](https://interconnected.blog/rss/) |
 | <h2 id="播客">播客</h2> |  | |  | |
 | PD001 | 知行小酒馆 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/j8yp8gxkmgqr) |
 | PD001 |一席 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/jq7xytwpykrg) |
