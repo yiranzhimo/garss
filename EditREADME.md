@@ -50,8 +50,6 @@
 | FM001 | Hacker News 热门|  暂无 | {{latest_content}}  |  [订阅地址](https://hn.buzzing.cc/feed.xml) |
 | FM001 | V2EX |  暂无 | {{latest_content}}  |  [订阅地址](https://www.v2ex.com/index.xml) |
 | FM001 | Reddit 热门 |  暂无 | {{latest_content}}  |  [订阅地址](https://reddit.buzzing.cc/feed.xml) |
-| FM001 | 雪球热帖 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xueqiu/hots) |
-| FM001 | 集思录 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/jisilu) |
 | FM001 | 一亩三分地 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/1point3acres/thread/new) |
 | FM001 | LessWrong |  暂无 | {{latest_content}}  |  [订阅地址](https://www.lesswrong.com/feed.xml) |
 | FM001 | 十年之约博客 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/foreverblog/feeds) |
@@ -68,8 +66,6 @@
 | NL001 | 湾区日报 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/wanqu/news) |
 | NL001 | Hello Github |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/hellogithub/volume) |
 | NL001 | 假设检验 |  暂无 | {{latest_content}}  |  [订阅地址](https://jiashejianyan.com/rss/) |
-| NL001 | AIGC Weekly |  暂无 | {{latest_content}}  |  [订阅地址](https://quail.ink/op7418/feed/atom) |
-| NL001 | ChinAI Newsletter |  暂无 | {{latest_content}}  |  [订阅地址](https://chinai.substack.com/feed) |
 | NL001 | 棱镜通讯 |  暂无 | {{latest_content}}  |  [订阅地址](https://wangyurui.com/feed.xml) |
 | NL001 | 维舟 |  暂无 | {{latest_content}}  |  [订阅地址](https://weizhou.substack.com/feed) |
 | NL001 | AwesomeVisa Exodus |  暂无 | {{latest_content}}  |  [订阅地址](https://exodus.awesomevisa.com/rss/) |
@@ -95,6 +91,7 @@
 | BS001 | 扫地僧笔记 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/lover_links) |
 | BS001 |Know Thyself |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/master_thyself) |
 | BS001 | 小声读书 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/weekly_books) |
+| SS001 | 冰器库 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/ifanbing) |
 | BS001 | 随机漫谈 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/what_to_read_today) |
 | BS001 | chatGPT中文社区 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/LptTech) |
 | BS001 | ALL About RSS |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/aboutrss) |
@@ -120,14 +117,8 @@
 | BS001 | 虹线|  暂无 | {{latest_content}}  |  [订阅地址](https://1q43.blog/feed) |
 | BS001 | neverland |  暂无 | {{latest_content}}  |  [订阅地址](https://type.cyhsu.xyz/feed.xml) |
 | BS001 | 夜法之书 |  暂无 | {{latest_content}}  |  [订阅地址](https://blog.17lai.site/atom.xml) |
-| BS001 | ETF拯救世界的微博 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/5687069307) |
-| BS001 | 二级市场捡辣鸡冠军 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/7519797263) |
-| BS001 | tombkeeper |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1401527553) |
-| BS001 | VicodinXYZ |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1977585731) |
-| BS001 | 孟岩 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1651676492) |
-| BS001 | 月风_投资笔记 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/weibo/user/1670659923) |
-| BS001 | Twitter @Naval |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/twitter/user/naval) |
-| BS001 | Interconnected |  暂无 | {{latest_content}}  |  [订阅地址](https://interconnected.blog/rss/) |
+| BS001 | 拾月书签 |  暂无 | {{latest_content}}  |  [订阅地址](https://pocket.skyue.com/feed/atom?) |
+| BS001 | 拾月博客 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.skyue.com/feed/)
 | <h2 id="播客">播客</h2> |  | |  | |
 | PD001 | 知行小酒馆 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/j8yp8gxkmgqr) |
 | PD001 |一席 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/jq7xytwpykrg) |
@@ -145,6 +136,7 @@
 | VS001 | 小Lin说 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youtube/user/@xiao_lin_shuo) |
 | <h2 id="资源">资源</h2> |  | |  | |
 | SS001 |  阿里云盘盘 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/yunpanpan) |
+| SS001 |  阿里云盘4K影视 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/Aliyun_4K_Movies) |
 | SS001 | 夸克云盘 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/kuakeyun) |
 | SS001 | 每日分享频道 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/woniubuchuiniu) |
 | SS001 | 黑洞资源笔记 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/piracy6) |
@@ -161,7 +153,6 @@
 | SS001 | Mobilism |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/mobilism/forums/android/apps) |
 | SS001 | 异星软件空间 |  暂无 | {{latest_content}}  |  [订阅地址](https://www.yxssp.com/feed) |
 | SS001 | JIKE 社区 |  暂无 | {{latest_content}}  |  [订阅地址](https://jike.info/recent.rss?uid=27412&token=285b2919-5420-4c9a-8de7-9651b2f8bf1c) |
-| SS001 | 冰器库 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/telegram/channel/ifanbing) |
 
 
 ## 如何定制自己的私人简报?
