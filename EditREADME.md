@@ -77,6 +77,7 @@
 | NL001 | 没有离开地球的原因 |  暂无 | {{latest_content}}  |  [订阅地址](https://redend110.substack.com/feed)|
 | NL001 | Unsupervised Learning |  暂无 | {{latest_content}}  |  [订阅地址](https://redend110.substack.com/feed)|
 | NL001 | 工劳小报 |  暂无 | {{latest_content}}  |  [订阅地址](https://fed.laborinfocn3.com/rss/)|
+| NL001 | 富于理性 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/zhubai/havefun)|
 | <h2 id="博客">博客</h2> |  | |  | |
 | BS001 | 雪球专刊 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/xueqiu/column/3746414875)|
 | BS001 | 少数派 |  暂无 | {{latest_content}}  |  [订阅地址](https://sspai.com/feed) |
