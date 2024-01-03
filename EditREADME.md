@@ -132,6 +132,7 @@
 | PD001 | 硅谷101 |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.fireside.fm/sv101/rss) |
 | PD001 | 翻转台电 |  暂无 | {{latest_content}}  |  [订阅地址](https://feed.xyzfm.space/36pjtvfwngyn) |
 | PD001 | Manifold  |  暂无 | {{latest_content}}  |  [订阅地址](https://feeds.transistor.fm/manifold-one) |
+| PD001 | 不明白播客  |  暂无 | {{latest_content}}  |  [订阅地址](https://www.bumingbai.net/feed/) | 
 | <h2 id="视频">视频</h2> |  | |  | |
 | VS001 | 小Lin说 |  暂无 | {{latest_content}}  |  [订阅地址](https://rsshub.app/youtube/user/@xiao_lin_shuo) |
 | <h2 id="资源">资源</h2> |  | |  | |
